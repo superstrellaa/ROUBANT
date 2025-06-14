@@ -1,0 +1,31 @@
+{
+  "name": "roubant",
+  "version": "1.0.0",
+  "description": "🖇️Custom Minecraft Launcher for mini studios",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superstrellaa/ROUBANT.git"
+  },
+  "keywords": [
+    "electron",
+    "client",
+    "minecraft",
+    "launcher",
+    "minecraft-launcher",
+    "minecraft-app"
+  ],
+  "author": "superstrellaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superstrellaa/ROUBANT/issues"
+  },
+  "homepage": "https://github.com/superstrellaa/ROUBANT#readme",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  }
+}
